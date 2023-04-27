@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Zeth Abney
+
+- 🔭 I’m currently working on developing a dynamic landing page for a regional fitness franchies.
+- 🌱 I’m currently learning about the nuances of coffee roasting to have better insight for my CoffeeBeanClassifier project.
+- 👯 I’m looking to collaborate on projects where I can get a lot of practice writing SQL queries.
+- 🤔 I’m looking for help with where to start with building dashboards. 
+- 💬 Ask me about generative AI and how machine learning is revolutionizing the creative industries!
+- 📫 How to reach me: zabney@creativecombinator.com
 
 <!--
 **Zeth-Abney/Zeth-Abney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
