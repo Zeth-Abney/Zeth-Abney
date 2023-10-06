@@ -1,9 +1,9 @@
 ### Hi there, I'm Zeth Abney
 
 - 🔭 I’m currently working on developing a dynamic landing page for a regional fitness franchies.
-- 🌱 I’m currently learning about the nuances of coffee roasting to have better insight for my CoffeeBeanClassifier project.
-- 👯 I’m looking to collaborate on projects where I can get a lot of practice writing SQL queries.
-- 🤔 I’m looking for help with where to start with building dashboards. 
+- 🌱 I’m currently working on utilizing performance data on social media content to optimize creative direction for marketing campaigns.
+- 👯 I’m looking for projects to work on the involve a wide variety of data formats, predictive modeling, and business inteligence.
+- 🤔 I’m looking for help with developing internal tools for my marketing consultancy. 
 - 💬 Ask me about generative AI and how machine learning is revolutionizing the creative industries!
 - 📫 How to reach me: zabney@creativecombinator.com
 
