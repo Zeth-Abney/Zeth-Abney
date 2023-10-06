@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on developing a dynamic landing page for a regional fitness franchies.
 - 🌱 I’m currently working on utilizing performance data on social media content to optimize creative direction for marketing campaigns.
-- 👯 I’m looking for projects to work on the involve a wide variety of data formats, predictive modeling, and business inteligence.
-- 🤔 I’m looking for help with developing internal tools for my marketing consultancy. 
+- 🛠️ I’m looking for projects to work on the involve a wide variety of data formats, predictive modeling, and business inteligence.
+- 🤔 I’m looking for help with developing automations for my marketing consultancy. 
 - 💬 Ask me about generative AI and how machine learning is revolutionizing the creative industries!
 - 📫 How to reach me: zabney@creativecombinator.com
 
