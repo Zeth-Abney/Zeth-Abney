@@ -1,8 +1,7 @@
 ### Hi there, I'm Zeth Abney
 
-- 🌱 I’m currently working on an AI tool that delivers design and strategy recommendations for marketing campaigns.
-- 🛠️ I’m looking to help with projects that take innovative approaches to enhancing and managing creative media.
-- 🤔 I’m looking for help with developing with the Meta graph marketing API
+- 🌱 I’m currently working on adding learning Swift to build a timeblocking app. 
+- 🛠️ I’m looking to help with projects that take innovative approaches to creative media.
 - 💬 Ask me about generative AI and how machine learning is transforming the creative industries!
 - 📫 How to reach me: zabney@creativecombinator.com
 
