@@ -1,6 +1,6 @@
 ### Hi there, I'm Zeth Abney
 
-- 🌱 I’m currently working on adding learning Swift to build a timeblocking app. 
+- 🌱 I’m currently learning Swift to build a timeblocking app. 
 - 🛠️ I’m looking to help with projects that take innovative approaches to creative media.
 - 💬 Ask me about generative AI and how machine learning is transforming the creative industries!
 - 📫 How to reach me: zabney@creativecombinator.com
